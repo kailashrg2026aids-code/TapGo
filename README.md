@@ -1,4 +1,4 @@
-# Untitled
+# TapGo
 
 ## Figma design
 
